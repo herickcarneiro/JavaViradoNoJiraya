@@ -1,6 +1,6 @@
-package maranotajava.poo.test;
+package maranotajava.introducaoclasses.test;
 
-import maranotajava.poo.domain.Estudante;
+import maranotajava.introducaoclasses.domain.Estudante;
 
 public class EstudanteTest02 {
     public static void main(String[] args) {

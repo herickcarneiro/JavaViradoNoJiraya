@@ -1,4 +1,4 @@
-package maranotajava.poo.domain;
+package maranotajava.introducaoclasses.domain;
 
 public class Professor {
     public String nome;

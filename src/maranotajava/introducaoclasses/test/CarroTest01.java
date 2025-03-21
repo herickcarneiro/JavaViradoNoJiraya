@@ -1,6 +1,6 @@
-package maranotajava.poo.test;
+package maranotajava.introducaoclasses.test;
 
-import maranotajava.poo.domain.Carro;
+import maranotajava.introducaoclasses.domain.Carro;
 
 public class CarroTest01 {
     public static void main(String[] args) {
